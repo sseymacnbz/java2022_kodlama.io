@@ -1,0 +1,22 @@
+RDBMS => Relational DataBase Management Systems (İlişkisel Veri Tabanı Yönetim Sistemleri)
+Bunlara örnek olarak:
+Oracle, SqlServe, PostgreSql, MySql, Access örnektir
+
+Bu sistemler genel olarak "ANSI SQL" ismindeki standardı kabul etmişlerdir
+Bu standarttaki kodlar yukarıdaki örnek verdiğimiz db sistemlerinin hepsinde çalışır.
+
+ANSI SQL temel bir standarttır
+Misal oracle -> Ansi sql + kendi geliştirdiği standartlar = PlSql isimli standartları vardır.
+      SqlServer -> Ansi sql + kendi geliştirdiği standartlar = T-Sql
+
+----------------------------------------------------------------------------------------------
+RDBMS dışında NoSql veri tabanları sistemleri de vardır.
+Bunlara örnek olarak:
+MongoDB, FireBase
+----------------------------------------------------------------------------------------------
+Peki bunlar ne zaman kullanılır?
+Yerine göre değişir.
+
+-- RDBMS'te katı bir ilişkisellik söz konusudur. NoSql'de bu yoktur. 
+----------------------------------------------------------------------------------------------
+Normalizasyon(Normalisation) : Datayı tasarlama ve modelleme tekniğidir. Amaç veri kaçaklarını engellemektir
