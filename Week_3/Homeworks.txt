@@ -1,0 +1,51 @@
+HW_1 : https://www.youtube.com/watch?v=H3QOQRh8cgk&list=PLqG356ExoxZWfcrBP53Njxir4a-OgqRki&index=2
+Bu videoyu baştan sona izleyip uygulayınız. Olayın netleşmesine destek olacak.
+
+
+HW_2 : https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
+
+Bu oynatma listesini 33. dersten itibaren sonuna kadar tekrar izleyip uygulayınız.
+
+
+HW_3 : kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
+
+Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.
+
+Çoklu loglama yapısını simule ediniz.
+
+Aşağıdaki isterleri gerçekleştiriniz.
+
+* Kurs ismi tekrar edemez
+* Kategori ismi tekrar edemez
+* Bir kursun fiyatı 0 dan küçük olamaz
+
+Kodlarınızı github'a aktarınız
+
+Diğer arkadaşlarınızın kodlarını inceleyip beğenirseniz yıldızlayınız.
+
+Not: Aldığınız yıldızlar github sayfa kaliteniz için sektörde çok belirleyicidir.
+
+
+HW_4 : Medium.com sitesinde hesap açınız.
+
+Hiç bilmeyen birine Java'da değer ve referans tipleri anlatan bir makale yazınız.
+
+Hiç bilmeyen birine Java'da interfaceleri anlatan başka bir makale daha yazınız.
+
+
+HW_5 : Sql bir programcının mutlaka bilmesi gereken bir konudur.
+
+Aşağıdaki videoyu izleyip uygulayınız.
+
+https://www.youtube.com/watch?v=r_pbdopB4LU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg&index=6
+
+Muhtemelen Visual Studio sizde yok. Hiç uğraşmayıp kodları aşağıdaki editörde yazıp uygulayınız.
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+
+
+HW_6 : Aşağıdaki oynatma listesi çok önemli.
+
+İzleyip excel'de siz de uygulayınız.
+
+https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm
