@@ -1,0 +1,16 @@
+package kodlama.io.Devs.business.abstracts;
+
+import java.util.List;
+
+import kodlama.io.Devs.business.requests.CreateProgrammingLanguageSubTechnologyRequest;
+import kodlama.io.Devs.business.requests.DeleteProgrammingLanguageSubTechnologyRequest;
+import kodlama.io.Devs.business.requests.GetAllSubTechnologiesRequest;
+import kodlama.io.Devs.business.requests.UpdateProgrammingLanguageSubTechnologyRequest;
+import kodlama.io.Devs.business.responses.GetAllSubTechnologiesResponse;
+
+public interface ProgrammingLanguageSubTechnologiesService {
+	List<GetAllSubTechnologiesResponse> getAll(GetAllSubTechnologiesRequest getAllSubTechnologiesRequest);
+	void add(CreateProgrammingLanguageSubTechnologyRequest createProgrammingLanguageSubTechnologyRequest);
+	void delete(DeleteProgrammingLanguageSubTechnologyRequest deleteProgrammingLanguageSubTechnologyRequest);
+	void update(UpdateProgrammingLanguageSubTechnologyRequest updateProgrammingLanguageSubTechnologyRequest);
+}

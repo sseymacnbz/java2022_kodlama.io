@@ -1,0 +1,11 @@
+https://howtodoinjava.com/hibernate/hibernate-one-to-many-mapping/
+
+https://attacomsian.com/blog/spring-data-jpa-one-to-many-mapping
+
+https://springframework.guru/one-to-one-relationship-in-jpa/
+
+https://furkand.medium.com/spring-boot-ve-jpa-hibernate-kullanarak-many-to-many-ili%C5%9Fkili-tablo-olu%C5%9Fturmak-75bc295ef572
+
+https://www.baeldung.com/hibernate-one-to-many
+
+https://www.baeldung.com/jpa-one-to-one
